@@ -2,7 +2,7 @@ import os
 
 import dj_database_url
 
-from settings import *
+from uw_mysite.settings import *
 
 
 DATABASES = {
